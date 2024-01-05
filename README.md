@@ -1,4 +1,4 @@
-# Salesforce-Learning
+# Salesforce-Apex-Triggers
 **This repository serves as my learning space for mastering Salesforce Apex Triggers. I will be updating different trigger problems.
 Happy Coding!**
 
